@@ -8,3 +8,5 @@ Resources:
 - https://www.deeplearning.ai/courses/ai-for-everyone/
 - https://github.com/DataTalksClub/llm-zoomcamp
 - https://courses.datatalks.club/llm-zoomcamp-2024/
+- https://www.elementsofai.com/
+- https://huggingface.co/
