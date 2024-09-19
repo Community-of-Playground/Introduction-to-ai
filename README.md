@@ -10,3 +10,7 @@ Resources:
 - https://courses.datatalks.club/llm-zoomcamp-2024/
 - https://www.elementsofai.com/
 - https://huggingface.co/
+- https://www.langchain.com/
+- https://www.llamaindex.ai/
+- https://github.com/DataTalksClub/llm-zoomcamp/blob/main/awesome-llms.md#openai-api-alternatives
+
