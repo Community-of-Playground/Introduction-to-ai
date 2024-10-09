@@ -2,18 +2,23 @@
 Goal: Memahami konsep ai dasar dan tools penunjang
 Key concept: ML, AI, Data, Generative Ai
 
-## Key Points:
-### Pengenalan Kecerdasan Buatan (AI)
-Kecerdasan buatan (AI) adalah bidang ilmu komputer yang berfokus pada pengembangan sistem yang dapat melakukan tugas yang biasanya memerlukan kecerdasan manusia. Ini mencakup berbagai teknik dan metode, salah satunya adalah machine learning (ML).
+## Details:
+The course "Introduction to Artificial Intelligence (AI) weeks 1" provides a foundational understanding of AI, covering its various types, and the concept of Large Language Models (LLMs), and how to access it. Then get an introduction to tech stack to develop ai app including programming languages(Python, Js, Ts), frameworks(langchain, AI SDK), backend tools(Vector Database, Auth, Security). This course is suitable for beginners who want to grasp the basics of AI and its applications in everyday life.
 
-Machine Learning (ML), Deep Learning, Neural Networks, Computer Vision (CV), **Natural Language Processing (NLP)**, **Generative AI**, Reinforcement Learning, Predictive Analytics, Data Mining, Sentiment Analysis, Autonomous Systems, Robotics, Transfer Learning, **Supervised Learning**, Unsupervised Learning, Data Preprocessing, **Cloud**, **Model Deployment**.
+## Learning objectives
+- Understanding AI and LLM fundamentals
+- 
 
-### Pengenalan Tools & API Handling
-Google colab, Python, 
+## Skills covered:
+[Artificial Intelligence,LLM]
 
-## Question: (Jelaskan secara sederhana)
-1. Apa perbedaan dari Ai dan ML?
-2. Apa itu LLM
+## Resources:
+- https://www.toolify.ai
+- https://theresanaiforthat.com
+- https://www.llamaindex.ai
+- https://lablab.ai
+- https://www.langchain.com/langchain
+- https://sdk.vercel.ai
 
 ## Task:
 - [ ] Install [cursor](https://www.cursor.com)
